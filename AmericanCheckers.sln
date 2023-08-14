@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmericanCheckersUI", "AmericanCheckersUI\AmericanCheckersUI.csproj", "{EA05C22D-FB62-4422-8BA0-F0B1DAB43339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmericanCheckersLogic", "AmricanCheckersLogic\AmericanCheckersLogic.csproj", "{8FADACB2-A249-42A9-8C75-877F4A538343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA05C22D-FB62-4422-8BA0-F0B1DAB43339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA05C22D-FB62-4422-8BA0-F0B1DAB43339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA05C22D-FB62-4422-8BA0-F0B1DAB43339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA05C22D-FB62-4422-8BA0-F0B1DAB43339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FADACB2-A249-42A9-8C75-877F4A538343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FADACB2-A249-42A9-8C75-877F4A538343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FADACB2-A249-42A9-8C75-877F4A538343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FADACB2-A249-42A9-8C75-877F4A538343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26C3F3AC-B394-4F66-9F72-65482C275449}
+	EndGlobalSection
+EndGlobal
