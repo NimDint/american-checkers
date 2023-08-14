@@ -6,7 +6,7 @@ An object-oriented driven American Checkers game made from scratch and developed
 
 ## Instructions
 
-Tu start playing, run 'AmericanCheckersUI.exe'.
+To start playing, run 'AmericanCheckersUI.exe'.
 ## Rules
 
 - In the game of American Checkers, also known as English draughts, two players compete on the 64 squares of a standard checkerboard. They use only the dark squares (eight rows, eight columns), each controlling 12 Checkers in different colors, typically black and white.
